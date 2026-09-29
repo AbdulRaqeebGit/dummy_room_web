@@ -180,4 +180,12 @@ body {
         font-size: 12px;
         padding: 5px 10px;
     }
+    .explore_bar{
+        flex-direction: column;
+        text-align: center;
+        gap: 10px;
+    }
+    .explore_btns{
+        justify-content: center;
+    }
 }
